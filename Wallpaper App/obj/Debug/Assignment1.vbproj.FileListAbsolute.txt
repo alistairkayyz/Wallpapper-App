@@ -1,0 +1,11 @@
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\obj\Debug\Assignment1.Resources.resources
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\obj\Debug\Assignment1.vbproj.GenerateResource.Cache
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\obj\Debug\Assignment1.xml
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\Assignment1\Assignment1\obj\Debug\Assignment1.vbprojResolveAssemblyReference.cache
